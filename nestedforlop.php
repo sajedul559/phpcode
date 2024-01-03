@@ -15,11 +15,6 @@ for($j=0; $j<=3; $j++)
 	# code.
 	echo "$i$j<br/>";
 }
-
-
-
-
-
 ?>
 </body>
 </html>
