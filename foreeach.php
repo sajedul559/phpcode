@@ -13,10 +13,6 @@ $session = array("summer","winter","spring");
 foreach($session as $arr){
 	echo "session is:$arr<br>";
 }
-
-
-
-
 ?>
 </body>
 </html>
